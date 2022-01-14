@@ -1,0 +1,7 @@
+serverName: log_service
+ip:
+port: 3000
+logPath: ./logservice.log
+registryServer: http://192.168.80.21:4000/services
+servicesUpdateUrl: http://192.168.80.21:3000/update-service
+heartbeatUrl: http://192.168.80.21:3000/heartbeat

@@ -1,0 +1,3 @@
+serverName: registry_service
+ip:
+port: 4000

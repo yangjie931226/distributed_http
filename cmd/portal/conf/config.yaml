@@ -1,0 +1,6 @@
+serverName: portal_service
+ip:
+port: 6111
+registryServer: http://192.168.80.21:4000/services
+servicesUpdateUrl: http://192.168.80.21:6111/update-service
+heartbeatUrl: http://192.168.80.21:6111/heartbeat

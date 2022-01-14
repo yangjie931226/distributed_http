@@ -1,0 +1,7 @@
+serverName: grades_service
+ip:
+port: 5000
+registryServer: http://192.168.80.21:4000/services
+logServerUrl: http://192.168.80.21:3000/log
+servicesUpdateUrl: http://192.168.80.21:5000/update-service
+heartbeatUrl: http://192.168.80.21:5000/heartbeat
